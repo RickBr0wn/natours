@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickBr0wn/natours.git"
+  },
+  "author": "Rick Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickBr0wn/natours/issues"
+  },
+  "homepage": "https://github.com/RickBr0wn/natours#readme",
+  "dependencies": {
+    "nodesass": "0.0.2-security"
+  }
+}

@@ -28,6 +28,8 @@ $brakepoint argument choices:
 - tab-land
 - big-desk
 
+ ** ORDER OF MEDIA QUERIES: Base + Typography > general layout + grid > page layout > components **
+
 */
 @mixin respond($breakpoint) {
   @if $breakpoint == phone {

@@ -16,7 +16,7 @@ This project is written is HTML/CSS/SASS, so nothing more is needed to get start
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to me.
+Please read [CONTRIBUTING.md](https://github.com/RickBr0wn/natours/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to me.
 
 ## Authors
 

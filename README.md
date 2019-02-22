@@ -45,6 +45,7 @@ When completed spin up using your chosen web server.
 ## What I learned
 
 This was my first experience of using SASS. There are a lot of unique animations within the website. Overall the course gave me a good understanding of transistions and transforms of CSS properties.
+The SASS/CSS for the navbar/menu was a particular highlight. I have used this style on many navbars since, and it is a professional effect.
 Using SASS, which I have later used with React, was intuitve and I really enjoyed the course.
 
 ## Contributing

@@ -64,6 +64,8 @@ When completed spin up using your chosen web server.
 
 ## ScreenShots
 
+![natours](./img/README/natours.png)
+![contact](./img/README/contact.png)
 ![menu](./img/README/menu.png)
 
 ## Built With

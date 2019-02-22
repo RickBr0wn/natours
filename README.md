@@ -42,6 +42,11 @@ When completed spin up using your chosen web server.
 - [SASS](https://sass-lang.com) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 - [NODE-SASS](https://www.npmjs.com/package/node-sass) - A library that provides binding for Node.js to [LibSass](https://github.com/sass/libsass), the C version of the popular stylesheet preprocessor, Sass.
 
+## What I learned
+
+This was my first experience of using SASS. There are a lot of unique animations within the website. Overall the course gave me a good understanding of transistions and transforms of CSS properties.
+Using SASS, which I have later used with React, was intuitve and I really enjoyed the course.
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.

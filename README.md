@@ -36,7 +36,7 @@ When completed spin up using your chosen web server.
 ![section_2](./img/README/section_2.png)
 ![menu](./img/README/menu.png)
 
-## Built With
+## Tech Stack
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Hypertext Markup Language (**HTML**) is the standard markup language for creating web pages and web applications.
 - [SASS](https://sass-lang.com) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.

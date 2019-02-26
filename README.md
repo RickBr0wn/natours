@@ -1,6 +1,6 @@
 # Natours
 
-This is a mock website for a company that sells tours. I completed it as part of the [Advanced CSS & SASS](https://www.udemy.com/advanced-css-and-sass/) course by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
+This is a mock website for an imaginary company that sells guided tours. I completed it as part of the [Advanced CSS & SASS](https://www.udemy.com/advanced-css-and-sass/) course by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
 
 ## Getting Started
 
